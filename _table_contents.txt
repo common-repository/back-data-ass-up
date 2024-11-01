@@ -1,0 +1,1 @@
+INSERT INTO `<?php echo $table_name; ?>` VALUES ( <?php echo $table_values; ?> ); 

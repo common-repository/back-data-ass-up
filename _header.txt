@@ -1,0 +1,8 @@
+# WordPress BACK DATA ASS UP database backup
+#
+# Blog: <?php echo $blogname; ?> 
+# Generated: <?php echo $time; ?> 
+# Hostname: <?php echo DB_HOST; ?> 
+# Database: <?php echo DB_NAME; ?> 
+# Plugin Version: <?php echo $plugin_version; ?> 
+

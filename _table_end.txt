@@ -1,0 +1,2 @@
+
+# End of data contents of table `<?php echo $table_name; ?>`

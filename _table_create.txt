@@ -1,0 +1,10 @@
+# `<?php echo $table_name; ?>`
+
+DROP TABLE IF EXISTS `<?php echo $table_name; ?>`;
+
+# Table structure of table `<?php echo $table_name; ?>`
+
+<?php echo $table_create; ?>;
+
+# Data contents of table `<?php echo $table_name; ?>`
+
